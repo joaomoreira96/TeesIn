@@ -6,8 +6,8 @@
 @import url('http://fonts.googleapis.com/css?family=Ek+Mukta:400,600,700'); */
 
 body {
-    font-family: Times New Roman;
-    margin: 0;
+    /* font-family: Times New Roman;
+    margin: 0; */
 }
 
 .header {
@@ -33,8 +33,13 @@ body {
     width: 50px;
     text-align: center;
     text-decoration: none;
+    color: white !important;
 }
 
-#menuLogin {
-    color: white !important;
+#menu {
+    color: black !important;
+}
+
+.mainCorpse {
+    background-color: blue;
 }
